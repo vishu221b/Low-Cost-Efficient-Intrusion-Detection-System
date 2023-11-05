@@ -1,0 +1,19 @@
+{
+  "name": "sockets-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mqtt": "^5.1.3",
+    "path": "^0.12.7",
+    "socketio": "^1.0.0",
+    "ws": "^7.5.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "vishu221b",
+  "license": "ISC",
+  "description": ""
+}
